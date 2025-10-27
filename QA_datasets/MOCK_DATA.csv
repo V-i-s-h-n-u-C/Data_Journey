@@ -1,0 +1,301 @@
+bug_id,module,severity,status,reported_date,resolved_date,assigned_to
+1,Login,High,In Progress,2025-01-04,2025-01-29,David
+2,Payment,Critical,In Progress,2025-06-03,2025-06-26,Fred
+3,Notifications,High,Closed,2025-01-12,2025-01-13,Charlie
+4,Dashboard,Low,In Progress,2024-12-22,2025-01-08,Alice
+5,Login,High,Resolved,2024-12-15,2025-01-11,Bob
+6,Reports,Low,Resolved,2025-08-15,2025-08-23,Gizel
+7,Payment,Low,Open,2025-07-26,2025-08-18,Bob
+8,Reports,High,In Progress,2025-01-09,2025-02-03,Gizel
+9,Payment,Low,Open,2025-08-25,2025-09-15,Charlie
+10,Login,Medium,Closed,2024-10-19,2024-10-24,David
+11,Login,Critical,In Progress,2025-05-19,2025-06-11,Fred
+12,Notifications,High,Open,2025-06-04,2025-06-07,Gizel
+13,Reports,Low,Open,2025-07-26,2025-08-05,Fred
+14,Notifications,Low,Open,2025-02-12,2025-02-22,David
+15,Dashboard,Low,In Progress,2024-11-17,2024-12-14,Fred
+16,Reports,High,Resolved,2025-04-09,2025-05-02,David
+17,Login,Medium,Open,2025-04-13,2025-05-09,Fred
+18,Dashboard,Low,In Progress,2025-01-07,2025-01-10,Ellie
+19,Login,Critical,In Progress,2024-12-08,2025-01-06,David
+20,Notifications,High,Resolved,2025-06-15,2025-06-20,Ellie
+21,Reports,Medium,Closed,2025-06-03,2025-06-29,Fred
+22,Payment,Medium,Open,2025-01-27,2025-02-20,Ellie
+23,Notifications,Low,Resolved,2025-08-29,2025-09-12,Bob
+24,Payment,Medium,Open,2025-08-31,2025-09-04,David
+25,Reports,High,Resolved,2025-05-28,2025-06-02,Gizel
+26,Payment,Low,Resolved,2025-10-04,2025-10-08,Fred
+27,Login,High,Open,2025-01-25,2025-02-22,Ellie
+28,Reports,High,Open,2025-01-24,2025-01-27,Fred
+29,Notifications,Medium,Open,2025-08-29,2025-09-16,Charlie
+30,Login,Medium,Closed,2025-05-03,2025-05-22,Ellie
+31,Reports,Medium,Closed,2025-07-28,2025-08-02,Alice
+32,Dashboard,High,Resolved,2025-01-04,2025-01-17,Gizel
+33,Payment,Low,Open,2025-08-24,2025-09-10,David
+34,Login,Critical,Closed,2025-04-19,2025-05-17,David
+35,Payment,Critical,Resolved,2025-04-10,2025-05-06,Alice
+36,Login,Critical,Open,2025-02-18,2025-02-20,Alice
+37,Notifications,Medium,Open,2025-02-24,2025-03-09,Fred
+38,Login,Medium,Resolved,2025-08-21,2025-09-20,Alice
+39,Notifications,Low,In Progress,2025-03-18,2025-03-25,Ellie
+40,Notifications,Low,Open,2025-06-15,2025-06-23,Charlie
+41,Dashboard,Medium,Resolved,2024-10-28,2024-11-13,David
+42,Dashboard,Critical,In Progress,2025-07-19,2025-07-29,Ellie
+43,Payment,Low,Open,2025-04-15,2025-05-08,Alice
+44,Login,Low,In Progress,2025-04-29,2025-05-19,Gizel
+45,Reports,Medium,In Progress,2024-12-15,2025-01-06,Ellie
+46,Payment,High,In Progress,2024-11-24,2024-12-09,Gizel
+47,Dashboard,Medium,Resolved,2025-04-01,2025-04-05,Charlie
+48,Dashboard,High,Resolved,2025-02-26,2025-03-05,Fred
+49,Payment,High,In Progress,2025-05-14,2025-05-21,David
+50,Dashboard,Medium,In Progress,2025-06-21,2025-06-29,David
+51,Login,Low,In Progress,2025-08-12,2025-09-01,David
+52,Reports,Low,In Progress,2024-11-06,2024-12-03,Bob
+53,Reports,Medium,Open,2025-03-28,2025-04-12,Bob
+54,Payment,High,Closed,2025-05-01,2025-05-12,Ellie
+55,Notifications,Medium,Closed,2025-03-02,2025-03-09,Alice
+56,Reports,High,Closed,2025-02-01,2025-02-22,Gizel
+57,Payment,Low,In Progress,2025-01-17,2025-01-28,Bob
+58,Dashboard,High,Resolved,2025-03-23,2025-03-25,Charlie
+59,Dashboard,Low,Closed,2024-12-17,2024-12-26,Fred
+60,Login,High,Closed,2024-12-04,2024-12-19,Alice
+61,Reports,Medium,Resolved,2024-12-03,2024-12-10,David
+62,Notifications,Low,In Progress,2025-06-24,2025-07-11,Gizel
+63,Payment,High,Open,2025-05-01,2025-05-02,Ellie
+64,Reports,Low,In Progress,2025-02-22,2025-03-08,David
+65,Notifications,High,In Progress,2025-01-25,2025-01-31,Charlie
+66,Dashboard,Critical,Open,2024-10-13,2024-10-14,Bob
+67,Payment,High,Resolved,2024-10-31,2024-11-02,Gizel
+68,Payment,High,In Progress,2025-03-29,2025-04-20,Charlie
+69,Dashboard,Low,Closed,2025-01-01,2025-01-03,Bob
+70,Dashboard,Critical,In Progress,2024-12-19,2025-01-01,Gizel
+71,Reports,Medium,Closed,2024-10-06,2024-10-21,Fred
+72,Reports,High,In Progress,2025-01-29,2025-02-09,Ellie
+73,Dashboard,Low,Resolved,2025-06-20,2025-07-02,Bob
+74,Payment,Low,Open,2024-12-28,2025-01-01,Ellie
+75,Reports,Medium,Resolved,2025-09-05,2025-09-15,Bob
+76,Payment,High,In Progress,2025-09-24,2025-10-07,Charlie
+77,Payment,Low,Closed,2025-09-18,2025-10-18,Bob
+78,Login,Low,Resolved,2024-10-27,2024-11-08,Bob
+79,Dashboard,Medium,Closed,2024-12-21,2025-01-03,Gizel
+80,Reports,Medium,In Progress,2025-07-26,2025-08-19,Fred
+81,Dashboard,High,Resolved,2025-06-23,2025-07-19,Alice
+82,Dashboard,Critical,Open,2025-08-18,2025-09-03,David
+83,Payment,Low,Resolved,2024-12-28,2025-01-22,Fred
+84,Login,High,Open,2024-12-23,2025-01-04,Fred
+85,Payment,Critical,Resolved,2025-04-12,2025-04-27,Ellie
+86,Payment,Medium,In Progress,2025-01-03,2025-01-23,Alice
+87,Login,Low,In Progress,2025-07-23,2025-08-07,Alice
+88,Notifications,Low,In Progress,2024-11-05,2024-11-17,Bob
+89,Notifications,Critical,Resolved,2024-10-14,2024-10-23,Alice
+90,Login,Critical,In Progress,2025-07-06,2025-07-24,Alice
+91,Login,Medium,In Progress,2025-05-01,2025-05-30,Gizel
+92,Login,Medium,Open,2024-10-25,2024-11-11,Fred
+93,Dashboard,Critical,Closed,2025-03-25,2025-04-23,Ellie
+94,Notifications,Medium,Resolved,2025-01-14,2025-02-10,Ellie
+95,Notifications,Critical,In Progress,2025-08-08,2025-08-24,Fred
+96,Login,Medium,Closed,2025-09-15,2025-09-30,Fred
+97,Notifications,Medium,Resolved,2024-12-11,2024-12-28,Alice
+98,Notifications,Medium,Resolved,2025-09-30,2025-10-09,Fred
+99,Payment,Medium,Resolved,2025-04-08,2025-04-19,Ellie
+100,Login,Critical,Resolved,2025-01-04,2025-01-29,Alice
+101,Reports,Low,In Progress,2025-09-20,2025-10-18,David
+102,Payment,Medium,In Progress,2024-12-25,2025-01-17,Gizel
+103,Login,Critical,In Progress,2024-11-20,2024-12-14,David
+104,Login,Critical,Open,2025-08-29,2025-09-21,Bob
+105,Payment,High,Resolved,2024-11-17,2024-11-27,Ellie
+106,Reports,Critical,Resolved,2025-05-12,2025-06-08,David
+107,Reports,High,Resolved,2025-04-20,2025-05-16,Ellie
+108,Dashboard,High,Resolved,2025-01-09,2025-01-19,Ellie
+109,Notifications,Critical,Open,2025-02-12,2025-02-24,Alice
+110,Login,Critical,In Progress,2025-08-15,2025-09-13,David
+111,Login,Low,Open,2025-06-17,2025-07-12,Charlie
+112,Reports,Critical,Resolved,2025-01-08,2025-01-27,Ellie
+113,Login,Low,Resolved,2025-09-29,2025-10-13,Ellie
+114,Login,Medium,In Progress,2025-07-27,2025-08-16,Ellie
+115,Notifications,High,Resolved,2025-08-31,2025-09-27,David
+116,Login,Medium,Resolved,2025-04-15,2025-04-26,David
+117,Reports,Medium,Open,2025-01-20,2025-01-21,Charlie
+118,Notifications,High,In Progress,2024-10-23,2024-10-26,Alice
+119,Reports,Critical,Closed,2025-03-30,2025-03-31,Fred
+120,Reports,Medium,Resolved,2025-07-04,2025-07-21,Bob
+121,Reports,Low,Closed,2025-07-31,2025-08-14,Alice
+122,Payment,Medium,In Progress,2025-03-13,2025-04-03,Charlie
+123,Payment,Critical,Open,2025-07-03,2025-07-11,Gizel
+124,Notifications,High,Closed,2024-12-03,2024-12-27,Fred
+125,Dashboard,Critical,In Progress,2025-04-24,2025-05-12,Charlie
+126,Notifications,Critical,Closed,2025-04-30,2025-05-19,Gizel
+127,Payment,Low,In Progress,2025-09-02,2025-09-16,Gizel
+128,Dashboard,High,Resolved,2025-10-03,2025-10-10,Bob
+129,Login,Medium,Closed,2025-03-13,2025-03-26,David
+130,Payment,High,Open,2025-02-03,2025-02-25,Gizel
+131,Reports,Critical,Open,2024-11-04,2024-11-21,David
+132,Notifications,Critical,Open,2024-11-17,2024-12-17,Fred
+133,Payment,High,Closed,2024-11-30,2024-12-07,Fred
+134,Login,High,Resolved,2025-02-20,2025-03-11,Gizel
+135,Dashboard,High,In Progress,2024-11-29,2024-12-04,Fred
+136,Login,Critical,Closed,2025-08-28,2025-09-19,Alice
+137,Dashboard,Critical,Closed,2024-10-28,2024-11-05,David
+138,Dashboard,Low,Open,2025-02-05,2025-02-13,Bob
+139,Reports,Critical,In Progress,2024-11-24,2024-12-20,Gizel
+140,Notifications,Medium,In Progress,2025-03-06,2025-03-07,Gizel
+141,Payment,High,Closed,2024-10-12,2024-10-28,Ellie
+142,Notifications,Low,Open,2025-03-21,2025-04-12,David
+143,Dashboard,Critical,Closed,2025-04-23,2025-05-17,Alice
+144,Notifications,High,In Progress,2025-04-12,2025-04-18,Gizel
+145,Login,Low,Resolved,2025-06-14,2025-07-06,Fred
+146,Notifications,Medium,Resolved,2025-05-16,2025-05-24,Charlie
+147,Dashboard,Critical,Resolved,2025-04-19,2025-04-23,Fred
+148,Dashboard,Medium,Resolved,2025-08-09,2025-08-11,Fred
+149,Notifications,Low,Closed,2025-04-17,2025-05-12,Alice
+150,Reports,Low,Resolved,2025-01-14,2025-01-30,David
+151,Login,Low,Open,2025-01-10,2025-01-17,Ellie
+152,Payment,Medium,In Progress,2025-06-24,2025-07-01,David
+153,Notifications,Medium,Open,2025-02-22,2025-03-21,Bob
+154,Login,Medium,Open,2024-12-31,2025-01-06,Alice
+155,Dashboard,High,Closed,2025-04-27,2025-05-27,David
+156,Login,Critical,Open,2025-05-13,2025-05-15,Alice
+157,Login,Critical,Resolved,2025-09-15,2025-10-03,Alice
+158,Dashboard,Critical,Open,2025-05-27,2025-05-28,Fred
+159,Reports,High,Closed,2025-08-12,2025-08-14,David
+160,Login,Low,Closed,2025-09-13,2025-10-07,Ellie
+161,Notifications,Medium,Closed,2025-07-17,2025-08-04,David
+162,Payment,Critical,Resolved,2025-06-23,2025-07-18,Bob
+163,Login,Medium,Resolved,2024-12-14,2025-01-07,Alice
+164,Dashboard,Critical,Resolved,2025-03-29,2025-04-08,Alice
+165,Reports,Low,Open,2025-03-09,2025-03-20,Fred
+166,Dashboard,Low,Closed,2025-04-13,2025-04-29,Ellie
+167,Notifications,Low,Closed,2024-12-19,2025-01-10,Alice
+168,Dashboard,Low,In Progress,2025-06-23,2025-07-11,Alice
+169,Login,Critical,Resolved,2025-08-03,2025-08-11,Ellie
+170,Dashboard,High,Resolved,2024-10-21,2024-11-14,Charlie
+171,Dashboard,Critical,In Progress,2025-02-03,2025-02-16,David
+172,Login,High,Resolved,2024-10-28,2024-11-19,Fred
+173,Dashboard,High,Open,2025-03-17,2025-04-10,Charlie
+174,Login,High,Resolved,2025-09-05,2025-09-19,Charlie
+175,Login,Critical,Closed,2025-01-03,2025-02-02,David
+176,Notifications,Low,Open,2025-05-20,2025-05-26,Fred
+177,Notifications,High,Open,2024-10-16,2024-10-17,Alice
+178,Notifications,Low,Open,2025-01-19,2025-01-31,Gizel
+179,Login,Low,Closed,2025-08-17,2025-09-14,Fred
+180,Dashboard,Critical,Closed,2024-11-30,2024-12-21,David
+181,Payment,Low,Resolved,2024-11-06,2024-11-12,Fred
+182,Reports,Low,In Progress,2025-06-07,2025-06-29,Ellie
+183,Dashboard,High,Resolved,2024-10-07,2024-11-05,Ellie
+184,Dashboard,Low,Open,2024-11-15,2024-12-15,Gizel
+185,Payment,Critical,Open,2025-03-01,2025-03-22,Alice
+186,Reports,Medium,Open,2025-05-01,2025-05-04,Alice
+187,Reports,Low,Closed,2025-07-20,2025-07-28,Ellie
+188,Dashboard,High,In Progress,2025-04-12,2025-05-02,Gizel
+189,Reports,Critical,Closed,2025-09-24,2025-10-16,Bob
+190,Login,Critical,Resolved,2025-07-30,2025-08-22,Fred
+191,Login,Critical,Closed,2025-03-21,2025-04-15,Bob
+192,Notifications,High,Resolved,2024-12-02,2024-12-20,Gizel
+193,Reports,Critical,In Progress,2025-04-30,2025-05-28,Ellie
+194,Dashboard,High,Closed,2024-11-15,2024-12-06,Bob
+195,Login,High,Closed,2025-09-07,2025-09-15,Ellie
+196,Login,Low,Closed,2025-03-19,2025-04-08,Alice
+197,Reports,Medium,Closed,2024-11-18,2024-12-10,Fred
+198,Reports,Medium,Resolved,2025-06-03,2025-06-10,Ellie
+199,Login,Medium,Resolved,2024-12-20,2025-01-11,Fred
+200,Payment,High,Resolved,2025-02-28,2025-03-28,Alice
+201,Reports,Low,Resolved,2025-04-08,2025-04-27,Ellie
+202,Dashboard,High,Resolved,2025-05-01,2025-05-21,David
+203,Reports,High,Closed,2025-04-14,2025-04-17,Fred
+204,Payment,Medium,Closed,2024-12-31,2025-01-20,Gizel
+205,Reports,High,Resolved,2025-06-10,2025-06-25,Fred
+206,Notifications,Low,Open,2024-12-18,2025-01-15,Charlie
+207,Payment,Critical,Resolved,2024-11-19,2024-12-04,David
+208,Payment,Low,Closed,2025-07-09,2025-08-06,Fred
+209,Notifications,Critical,Open,2025-04-25,2025-05-09,Gizel
+210,Dashboard,Medium,Closed,2024-11-20,2024-12-04,Fred
+211,Payment,Low,Resolved,2025-05-29,2025-06-12,Alice
+212,Payment,Low,In Progress,2024-11-21,2024-12-15,Alice
+213,Payment,Low,Open,2025-02-21,2025-03-20,David
+214,Dashboard,High,In Progress,2025-05-11,2025-06-08,Fred
+215,Dashboard,Low,Open,2025-03-15,2025-03-29,Charlie
+216,Login,Critical,Closed,2024-12-01,2024-12-11,Bob
+217,Notifications,High,Resolved,2025-01-08,2025-01-24,Gizel
+218,Dashboard,Critical,Closed,2025-07-07,2025-07-15,Charlie
+219,Login,Low,Open,2024-12-29,2025-01-12,Alice
+220,Login,Low,Resolved,2025-09-05,2025-09-30,Alice
+221,Reports,Low,Resolved,2025-05-02,2025-05-03,Ellie
+222,Login,Medium,Closed,2025-08-02,2025-08-29,Gizel
+223,Notifications,High,Closed,2025-07-28,2025-08-14,Gizel
+224,Dashboard,Critical,In Progress,2025-03-09,2025-04-08,Alice
+225,Dashboard,Low,Open,2025-02-14,2025-03-05,Fred
+226,Notifications,High,In Progress,2024-12-22,2025-01-20,Gizel
+227,Login,High,Resolved,2025-03-02,2025-03-17,Alice
+228,Notifications,Low,In Progress,2025-01-27,2025-02-06,Fred
+229,Notifications,Critical,In Progress,2025-09-27,2025-10-05,Ellie
+230,Notifications,Low,Open,2025-08-04,2025-08-28,Alice
+231,Login,Low,Open,2025-04-03,2025-04-19,Fred
+232,Dashboard,High,In Progress,2025-01-01,2025-01-25,Fred
+233,Payment,Low,Open,2025-02-02,2025-02-21,Charlie
+234,Notifications,High,Closed,2025-04-11,2025-04-29,Charlie
+235,Dashboard,Critical,Closed,2025-03-02,2025-03-09,Alice
+236,Reports,Critical,In Progress,2025-05-03,2025-06-01,Ellie
+237,Reports,High,In Progress,2025-05-11,2025-06-07,Alice
+238,Payment,Medium,Resolved,2025-08-30,2025-09-29,David
+239,Reports,Low,Open,2024-11-24,2024-12-22,Fred
+240,Login,Low,In Progress,2025-06-02,2025-06-07,Charlie
+241,Dashboard,Critical,In Progress,2025-07-17,2025-08-06,Bob
+242,Login,Low,Open,2024-11-23,2024-12-11,Charlie
+243,Login,Low,In Progress,2025-07-28,2025-08-10,Bob
+244,Reports,Medium,Closed,2025-07-19,2025-07-24,Alice
+245,Dashboard,Medium,Resolved,2025-02-23,2025-03-12,Gizel
+246,Reports,High,Resolved,2025-03-19,2025-04-15,Ellie
+247,Payment,Critical,In Progress,2025-05-05,2025-05-11,Gizel
+248,Dashboard,Medium,Resolved,2025-01-21,2025-01-31,Gizel
+249,Dashboard,Medium,Open,2025-07-28,2025-07-31,Ellie
+250,Login,Low,In Progress,2025-04-17,2025-05-02,Bob
+251,Payment,Critical,Closed,2025-06-01,2025-06-13,Fred
+252,Dashboard,High,In Progress,2024-12-22,2024-12-28,David
+253,Notifications,Low,Open,2025-02-28,2025-03-12,Gizel
+254,Payment,Medium,Open,2025-09-28,2025-10-10,Fred
+255,Reports,Critical,Resolved,2025-01-31,2025-02-03,Ellie
+256,Dashboard,Medium,Closed,2025-04-07,2025-04-16,Bob
+257,Notifications,Medium,In Progress,2025-06-29,2025-07-19,Bob
+258,Notifications,Medium,Resolved,2025-09-24,2025-10-17,Charlie
+259,Notifications,Low,Closed,2025-01-17,2025-02-04,David
+260,Login,Low,Resolved,2024-10-25,2024-11-19,Charlie
+261,Notifications,Medium,Resolved,2025-08-01,2025-08-11,Alice
+262,Dashboard,Low,Open,2025-01-11,2025-01-27,Bob
+263,Payment,Medium,Resolved,2025-02-07,2025-03-05,Ellie
+264,Notifications,High,Closed,2024-11-30,2024-12-30,Alice
+265,Payment,Critical,In Progress,2025-06-20,2025-06-30,Gizel
+266,Login,Medium,Open,2025-02-12,2025-03-05,Ellie
+267,Login,Critical,Resolved,2025-07-09,2025-07-18,Gizel
+268,Dashboard,Critical,Open,2025-03-05,2025-03-27,David
+269,Login,Low,In Progress,2025-03-12,2025-03-25,Gizel
+270,Reports,Medium,Resolved,2025-07-23,2025-07-25,Alice
+271,Notifications,Medium,Closed,2025-08-18,2025-08-30,Gizel
+272,Dashboard,Critical,Resolved,2024-11-28,2024-12-18,Ellie
+273,Dashboard,High,Resolved,2025-09-20,2025-10-20,Alice
+274,Dashboard,Low,In Progress,2025-06-23,2025-07-11,Fred
+275,Reports,Low,Open,2024-10-15,2024-11-07,Charlie
+276,Notifications,Critical,In Progress,2025-05-02,2025-05-27,Charlie
+277,Notifications,Critical,Open,2024-12-27,2025-01-10,Ellie
+278,Payment,Critical,In Progress,2024-11-10,2024-12-08,Alice
+279,Dashboard,High,Open,2025-01-19,2025-02-12,Charlie
+280,Payment,Low,Resolved,2024-10-27,2024-11-17,David
+281,Notifications,Medium,Closed,2025-09-30,2025-10-02,Alice
+282,Payment,Low,Resolved,2025-01-06,2025-02-03,Ellie
+283,Payment,Medium,In Progress,2025-03-03,2025-03-31,Charlie
+284,Login,High,Closed,2024-11-26,2024-12-01,Fred
+285,Login,Medium,In Progress,2025-09-16,2025-09-30,Fred
+286,Dashboard,High,Closed,2025-01-25,2025-01-29,Ellie
+287,Login,Medium,In Progress,2024-11-02,2024-11-04,Alice
+288,Payment,High,In Progress,2025-07-23,2025-08-19,Gizel
+289,Notifications,Critical,In Progress,2025-06-24,2025-07-10,Alice
+290,Login,Medium,Open,2025-05-11,2025-05-18,Ellie
+291,Reports,Critical,In Progress,2025-06-01,2025-06-09,Alice
+292,Login,High,In Progress,2025-08-22,2025-09-06,Charlie
+293,Reports,Medium,Open,2025-06-15,2025-06-25,David
+294,Notifications,Medium,In Progress,2025-03-09,2025-04-08,Alice
+295,Reports,High,Resolved,2025-01-17,2025-02-15,Charlie
+296,Payment,Medium,In Progress,2025-08-31,2025-09-20,Gizel
+297,Payment,High,Closed,2025-10-04,2025-10-26,Bob
+298,Dashboard,Critical,Resolved,2025-05-19,2025-06-01,Alice
+299,Payment,Medium,Open,2024-11-15,2024-11-29,Bob
+300,Notifications,Medium,Closed,2025-04-11,2025-04-24,Gizel
