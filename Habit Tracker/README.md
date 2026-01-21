@@ -30,6 +30,8 @@ Tracks daily discipline using binary habits:
 - Day-wise and week-wise completion trends
 - Habit heatmap for quick failure detection
 
+![Health](https://github.com/V-i-s-h-n-u-C/Data_Journey/blob/main/Habit%20Tracker/Health.png)
+
 ---
 
 ### 🏋️ Fitness Dashboard
@@ -44,6 +46,7 @@ Tracks time-based fitness activities:
 - Weekly fitness trends (split by activity)
 - Day-of-week fitness patterns
 
+![Fitness](https://github.com/V-i-s-h-n-u-C/Data_Journey/blob/main/Habit%20Tracker/Fitness.png)
 ---
 
 ### 💼 Career, Learning & Social Dashboard
@@ -59,6 +62,8 @@ Tracks growth-focused and outcome-driven habits:
 - Learning and study trends
 - Career action momentum
 - Visibility vs digital discipline balance
+
+![Career](https://github.com/V-i-s-h-n-u-C/Data_Journey/blob/main/Habit%20Tracker/Career.png)
 
 ---
 
